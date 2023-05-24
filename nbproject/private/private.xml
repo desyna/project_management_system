@@ -3,18 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/DataManajementSystem/src/model/Connector.java</file>
-            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/DataManajementSystem/src/assets/TableActionCellEditor.java</file>
-            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/DataManajementSystem/src/view/MenuView.java</file>
-            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/DataManajementSystem/src/view/InsertDataView.java</file>
-            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/DataManajementSystem/src/assets/TableActionCellRender.java</file>
-            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/DataManajementSystem/src/assets/ActionButton.java</file>
-            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/DataManajementSystem/src/assets/TableActionEvent.java</file>
-            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/DataManajementSystem/src/model/DataModel.java</file>
-            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/DataManajementSystem/src/assets/PanelAction.java</file>
-            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/DataManajementSystem/src/view/DataView.java</file>
-            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/DataManajementSystem/src/view/LoginView.java</file>
-            <file>file:/C:/Users/LENOVO/OneDrive/Documents/NetBeansProjects/DataManajementSystem/src/controller/ControllerLogin.java</file>
+            <file>file:/D:/University/JAVA/project_pbo/src/view/MenuView.java</file>
+            <file>file:/D:/University/JAVA/project_pbo/src/controller/ControllerInput.java</file>
+            <file>file:/D:/University/JAVA/project_pbo/src/view/DataView.java</file>
+            <file>file:/D:/University/JAVA/project_pbo/src/controller/ControllerLogin.java</file>
+            <file>file:/D:/University/JAVA/project_pbo/src/view/InsertDataView.java</file>
+            <file>file:/D:/University/JAVA/project_pbo/src/controller/ControllerRegister.java</file>
+            <file>file:/D:/University/JAVA/project_pbo/src/view/LoginView.java</file>
         </group>
     </open-files>
 </project-private>

@@ -11,7 +11,7 @@ import java.sql.*;
  * @author LENOVO
  */
 public class Connector {
-    String DBurl = "jdbc:mysql://localhost/sivour";
+    String DBurl = "jdbc:mysql://localhost/db_sivour";
     String DBusername = "root";
     String DBpassword = "";
     

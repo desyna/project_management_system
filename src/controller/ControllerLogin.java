@@ -38,6 +38,7 @@ public class ControllerLogin {
                 cek_user = result.getString("username");
                 cek_pass = result.getString("password");
             }
+            
             result.close();
             statement.close();
         } catch (SQLException e) {
@@ -47,12 +48,11 @@ public class ControllerLogin {
         if (cek_user == null && cek_pass == null) {
             String message = "Username Atau Password Salah";
             JOptionPane.showMessageDialog(null,message,"Message",JOptionPane.INFORMATION_MESSAGE);
-//            loginView.setLoginUsername(null);
-//            loginView.setLoginPassword(null);
+            loginView.dispose();
+            new LoginView().setVisible(true);
         }else {
             String message1 = "Login Berhasil";
-            JOptionPane.showMessageDialog(null,message1,"Message",
-            JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(null,message1,"Message",JOptionPane.INFORMATION_MESSAGE);
             new MenuView().setVisible(true);
             loginView.dispose();
         }
