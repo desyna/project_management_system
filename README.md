@@ -3,8 +3,6 @@
 
 **Management System** merupakan suatu sistem yang digunakan oleh admin untuk menghitung Indeks Prestasi Semester Mahasiswa serta melihat data Mahasiswa di semester tertentu.
 
-### 3. Logout
-
 ## Instalasi
 
 1. 📋 Salin dan tempel di _code editor_.
