@@ -18,4 +18,4 @@ Baca [panduan berkontribusi](CONTRIBUTING.md) untuk mengetahui lebih lanjut meng
 ## Kontak
 
 - [Tegar Wibisana](github:)
-- [Desy Nur Azizah](github:github.com/desyna)
+- [Desy Nur Azizah](github.com/desyna)
