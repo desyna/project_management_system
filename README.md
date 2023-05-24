@@ -1,4 +1,4 @@
-# project_pbo
+# Project PBO Management System
 ## Perkenalan
 
 **Management System** merupakan suatu sistem yang digunakan oleh admin untuk menghitung Indeks Prestasi Semester Mahasiswa serta melihat data Mahasiswa di semester tertentu.
