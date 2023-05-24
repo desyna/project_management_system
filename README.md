@@ -17,5 +17,5 @@ Baca [panduan berkontribusi](CONTRIBUTING.md) untuk mengetahui lebih lanjut meng
 
 ## Kontak
 
-- [Tegar Wibisana](github:)
-- [Desy Nur Azizah](github.com/desyna)
+- [Tegar Wibisana](github.com/ybgara) 123210024
+- [Desy Nur Azizah](github.com/desyna) 123210083
